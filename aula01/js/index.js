@@ -1,0 +1,1 @@
+alert('Alerta rodando de uma pasta externa!');
